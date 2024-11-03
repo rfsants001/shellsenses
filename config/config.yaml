@@ -1,0 +1,8 @@
+openai:
+  # Modelo a ser utilizado com a API da OpenAI
+  model: "gpt-4o-mini"
+
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_file_path: "./logs/shellsense.log"
